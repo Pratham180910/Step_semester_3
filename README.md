@@ -1,6 +1,17 @@
 ## Date: 31-08-2026
 
 **Today's Work:**
+Completed Session 3. Created the `feature/session_3` branch from `develop` and finished the class and take-home assignment problems for this session.
+
+**Next Session Plan:**
+Create the `feature/session_4` branch from `develop` and work on the next topic.
+
+**Issues Faced: **
+- None
+
+## Date: 31-08-2026
+
+**Today's Work:**
 Completed Session 2. Created branch `feature/session_2` from `develop` and finished class and assignment problems for String Operations.
 
 **Next Session Plan:**
