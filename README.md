@@ -1,3 +1,14 @@
+## Date: 11-09-2026
+
+**Today's Work:**
+Completed Session 5. Created branch `feature/session_5` from `develop` and finished class and assignment problems for OOP Fundamentals.
+
+**Next Session Plan:**
+Create the `feature/session_6` branch from `develop` and work on the next topic.
+
+**Issues Faced:**
+- VS Code locked the .vscode and src directories during checkout. Bypassed the prompts and manually deleted the folders on the main branch.
+
 ## Date: 04-09-2026
 
 **Today's Work:**
