@@ -1,3 +1,14 @@
+## Date: 18-09-2026
+
+**Today's Work:**
+Completed Session 6. Created branch `feature/session_6` from `develop` and finished class and assignment problems for Encapsulation.
+
+**Next Session Plan:**
+Create the `feature/session_7` branch from `develop` and work on the next topic.
+
+**Issues Faced:**
+- None
+
 ## Date: 11-09-2026
 
 **Today's Work:**
