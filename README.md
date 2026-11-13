@@ -1,3 +1,14 @@
+## Date: 13-11-2026
+
+**Today's Work:**
+Completed Session 11. Created branch `feature/session_11` from `develop` and finished class and assignment problems for Sorting.
+
+**Next Session Plan:**
+Create the `feature/session_12` branch from `develop` and work on the next topic.
+
+**Issues Faced:**
+- None
+
 ## Date: 16-10-2026
 
 **Today's Work:**
