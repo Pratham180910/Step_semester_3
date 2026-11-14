@@ -1,4 +1,4 @@
-## Date: 14-11-2026
+## Date: 17-11-2026
 
 **Today's Work:**
 Completed Session 12. Created branch `feature/session_12` from `develop` and finished class and assignment problems for today's topic.
